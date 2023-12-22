@@ -1,4 +1,4 @@
-package com.example.jokeapp.controller;
+package com.example.jokeapp.service;
 
 public interface JokeService {
 

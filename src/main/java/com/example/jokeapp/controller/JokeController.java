@@ -1,6 +1,6 @@
 package com.example.jokeapp.controller;
 
-import com.example.jokeapp.service.JokeServiceImpl;
+import com.example.jokeapp.service.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,6 +1,5 @@
 package com.example.jokeapp.service;
 
-import com.example.jokeapp.controller.JokeService;
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
 
